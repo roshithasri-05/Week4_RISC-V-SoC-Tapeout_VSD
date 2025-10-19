@@ -104,6 +104,8 @@ plot out vs in
 
 Outputs:
 
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/c4ed6ba0-27a6-495c-8717-a4d6e18f7232" />
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/e05c198b-f2d8-45c9-a4f8-c50f67e3ef1b" />
 
 ---
 
