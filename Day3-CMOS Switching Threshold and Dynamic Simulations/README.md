@@ -39,6 +39,10 @@
 ngspice day3_inv_vtc_Wp084_Wn036.spice
 plot out vs in
 ```
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/24467056-5f19-4983-ba88-828c3fd6d541" />
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/d41ec000-68de-462a-b537-f42534cda060" />
+<img width="313" height="73" alt="Image" src="https://github.com/user-attachments/assets/41851f6d-d8cb-4e37-a21b-3dbfdb06b7dc" />
+
 
 
 ---
@@ -49,6 +53,10 @@ plot out vs in
 ngspice day3_inv_tran_Wp084_Wn036.spice
 plot out vs time in
 ```
+
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/ed4b12ca-3eed-49fb-b4ff-e288621906af" />
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/a40f759f-39d0-4010-a53a-a8a59f9fc4ab" />
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/1e70ff63-6b58-4d92-9fe5-be19d58b2227" />
 
 
 ---
