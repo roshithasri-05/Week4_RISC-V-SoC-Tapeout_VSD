@@ -44,6 +44,8 @@ Low voltage design requires careful balance between **power savings** and **robu
 
 Simulation of inverter circuits at various V<sub>DD</sub> values shows differing output responses and VTC shapes:
 
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/06601252-5ecf-4864-82a8-0253334218ed" />
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/08dbae66-d1e1-42e4-b646-d4658ff4e8ca" />
 
 ```bash
 Gain = (y0 - y1) / (x0 - x1)
@@ -121,6 +123,8 @@ Together, they represent two major reliability challenges in CMOS circuit design
 
 Below are lab simulations using Sky130 for observing inverter robustness under device variation scenarios:
 
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/bef5fa48-3f38-4e31-851b-c997567d2caa" />
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/f5b1874c-d446-4d64-a561-197b4d9d3b78" />
 
 ---
 
