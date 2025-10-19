@@ -91,6 +91,8 @@ Run this simulation to observe I<sub>D</sub> vs V<sub>GS</sub> for a short-chann
 ngspice day2_nfet_idvgs_L015_W039.spice
 plot -vdd#branch
 ```
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/5f161a5b-9726-4c3c-8eb1-c914b0fd9c8a" />
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/047f2f11-5361-4aab-aae0-f42f17a1ea45" />
 
 
 ---
@@ -104,6 +106,8 @@ ngspice day2_nfet_idvds_L015_W039.spice
 plot -vdd#branch
 ```
 
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/52800bf3-9496-4aa7-97c0-171d1252a16a" />
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/83bcdac6-78e5-4c74-935c-82d68b6fa23d" />
 
 ---
 
