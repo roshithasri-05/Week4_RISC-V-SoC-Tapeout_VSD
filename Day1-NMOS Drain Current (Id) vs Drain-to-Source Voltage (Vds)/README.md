@@ -206,7 +206,7 @@ Each component follows a simple syntax:
 SPICE interprets these lines and performs simulations accordingly.
 
 
-![SPICE Syntax](https://github.com/user-attachments/assets/6419babc-2765-4fab-973c-1f31f8f7ad61)
+![image](https://github.com/user-attachments/assets/6419babc-2765-4fab-973c-1f31f8f7ad61)
 
 ---
 
@@ -225,10 +225,11 @@ cd sky130CircuitDesignWorkshop
 ngspice day1_nfet_idvds_L2_W5.spice
 plot -vdd#branch
 ```
-
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/3264b50d-daae-4712-b2e3-003c43b61c61" />
 
 📊 Analyze real-world I–V curves and validate your theoretical knowledge.
 
+<img width="1210" height="773" alt="Image" src="https://github.com/user-attachments/assets/9967dda1-776a-4045-92cf-7b0cd3a13de4" />
 
 ---
 
